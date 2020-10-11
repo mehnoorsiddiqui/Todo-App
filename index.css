@@ -1,0 +1,17 @@
+.app-title{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.center{
+    display: flex;
+    align-items: center;
+  justify-content: center;
+  border-color: white;
+  
+}
+
+.btn-rad{
+  border-radius: 50% !important; 
+}
+
